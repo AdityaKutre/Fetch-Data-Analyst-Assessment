@@ -106,6 +106,7 @@ For any questions or feedback, reach out to me at:
 
 # Dashboard Overview
 
-![Dashbaord_Image.png]
+<img src="Dashbaord_Image.png" alt="My Image" width="300">
+
 
 
