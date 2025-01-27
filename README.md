@@ -1,7 +1,4 @@
 # Fetch-Data-Analyst-Assessment
-Here's a creative and well-structured **README.md** file you can use for your GitHub submission:  
-
----
 
 # 📊 Data Analysis & Insights Dashboard  
 
