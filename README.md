@@ -100,13 +100,5 @@ ORDER BY sales_year;
 ## 📧 Contact  
 
 For any questions or feedback, reach out to me at:  
-📨 Email: [your-email@example.com](mailto:akutre@hawk.iit.edu)  
+📨 Email: [mailto:akutre@hawk.iit.edu]()  
 💼 LinkedIn: [your-linkedin-profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-kutre-906a24131))  
-
----
-
-**⭐ If you found this project helpful, consider giving it a star on GitHub!**  
-
----
-
-Hope this README captures your project's essence effectively! Let me know if you need any tweaks. 🚀
