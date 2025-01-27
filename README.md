@@ -101,4 +101,4 @@ ORDER BY sales_year;
 
 For any questions or feedback, reach out to me at:  
 📨 Email: [akutre@hawk.iit.edu]()  
-💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-kutre-906a24131]  
+💼 LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-kutre-906a24131 
