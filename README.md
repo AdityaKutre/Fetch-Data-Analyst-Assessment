@@ -106,6 +106,6 @@ For any questions or feedback, reach out to me at:
 
 # Dashboard Overview
 
-![Dashboard.png]
+![Dashbaord_Image.png]
 
 
