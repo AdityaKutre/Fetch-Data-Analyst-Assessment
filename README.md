@@ -107,5 +107,5 @@ For any questions or feedback, reach out to me at:
 # Dashboard Overview
 
 ```html
-<img src="" alt="Description of image">
+<img src="Dashbaord_Image.png" alt="Description of image">
 
