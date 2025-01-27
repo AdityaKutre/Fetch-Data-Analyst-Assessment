@@ -47,7 +47,7 @@ The Power BI dashboard includes the following **key visualizations** to help sta
 ### **1. User Demographics & Behavior 🧑‍🤝‍🧑**  
 - **Age Distribution:** Histogram of different user generations.  
 - **Gender & Language Insights:** Pie charts to visualize diversity.  
-- **Account Tenure vs. Spend:** Identifying long-term users with high purchase values.  
+
 
 ### **2. Sales Performance 💰**  
 - **Year-over-Year Growth:** Line charts showcasing revenue trends.  
@@ -57,7 +57,6 @@ The Power BI dashboard includes the following **key visualizations** to help sta
 ### **3. Product Performance 🛍️**  
 - **Top Brands:** Horizontal bar charts of highest-performing brands.  
 - **Product Sales Heatmap:** Visualizing barcode-level sales.  
-- **Stock Optimization:** Ensuring demand matches inventory levels.  
 
 ---
 
@@ -101,33 +100,11 @@ ORDER BY sales_year;
 
 ---
 
-## 🚀 How to Run the Project  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/data-analysis-dashboard.git
-   cd data-analysis-dashboard
-   ```
-2. Load the datasets into SQL for further analysis.  
-3. Open the Power BI report file (`dashboard.pbix`).  
-4. Explore insights using pre-built filters and visualizations.  
-
----
-
-## 🤝 Contribution  
-
-Feel free to contribute by raising issues or suggesting improvements. We welcome:  
-- Additional queries for deeper analysis.  
-- Power BI design enhancements.  
-- Documentation improvements.  
-
----
-
 ## 📧 Contact  
 
 For any questions or feedback, reach out to me at:  
-📨 Email: [your-email@example.com](mailto:your-email@example.com)  
-💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)  
+📨 Email: [your-email@example.com](mailto:akutre@hawk.iit.edu)  
+💼 LinkedIn: [your-linkedin-profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aditya-kutre-906a24131))  
 
 ---
 
