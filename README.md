@@ -106,15 +106,6 @@ For any questions or feedback, reach out to me at:
 
 # Dashboard Overview
 
-## File Information
-- **File Name:** image_name.jpg  
-- **Resolution:** 1920x1080 (replace with actual resolution)  
-- **File Size:** 2.5 MB (replace with actual size)  
-- **Format:** JPEG (or PNG, SVG, etc.)  
-
-## Usage
-To use this image, simply download and include it in your project:  
-
 ```html
-<img src="path/to/image_name.jpg" alt="Description of image">
+<img src="" alt="Description of image">
 
